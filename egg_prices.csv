@@ -1,0 +1,6 @@
+Date,Price,Temperature,Location,Season,Supply_Demand,External_Factor
+01-01-2021,2.5,20,New York,Winter,High,None
+01-02-2021,2.7,18,New York,Winter,High,None
+01-03-2021,2.9,15,New York,Winter,High,None
+01-04-2021,3.1,12,New York,Winter,High,None
+01-05-2021,3.0,10,New York,Winter,High,None
