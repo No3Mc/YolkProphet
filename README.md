@@ -5,6 +5,14 @@ Python( pandas and ARIMA)
 
 Current added Fields:
 
+Date
+Price
+Temperature
+Location
+Season
+Supply_Demand
+External_Factors
+
 Fields I need to add:
 
 Production Costs
