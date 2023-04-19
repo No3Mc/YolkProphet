@@ -1,9 +1,8 @@
-# Forecasting-Model
+# Forecasting-Model for poultry egg rates
 
-poultry egg rates forecasting: Date, Price, Temperature, Location, Season, Supply_Demand, External_Factors are considered to forecast. 
 Python( pandas and ARIMA)
 
-Current added Fields:
+Current Fields to forecast:
 
 Date <br>
 Price <br>
