@@ -2,10 +2,11 @@
 
 Python( pandas and ARIMA) [Estimate](https://github.com/No3Mc/Forecasting-Model/blob/main/egg_prices.csv)
 
+
 Current Fields to forecast:
 
 Date <br>
-Price <br>
+Price (Taken form the Federal Reserve Bank of St. Louis. (2023) https://fred.stlouisfed.org/series/APU0000708111) <br>
 Temperature <br>
 Location <br>
 Season <br>
