@@ -6,7 +6,7 @@ Python( pandas and ARIMA) [Estimate](https://github.com/No3Mc/Forecasting-Model/
 Current Fields to forecast:
 
 Date <br>
-Price (Taken form the Federal Reserve Bank of St. Louis. (2023) https://fred.stlouisfed.org/series/APU0000708111) <br>
+Price (Taken from the Federal Reserve Bank of St. Louis. (2023) https://fred.stlouisfed.org/series/APU0000708111) <br>
 Temperature <br>
 Location <br>
 Season <br>
